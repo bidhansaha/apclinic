@@ -1,0 +1,123 @@
+body {
+  font-size: 14px;
+  margin-top: 3%;
+  background: #efefef;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 3px solid black;
+}
+.table1 {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 670px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+}
+.head {
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 2%;
+}
+.table2 {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+}
+.table3 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1.5%;
+}
+.table4 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  width: 670px;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+.text {
+  font-family: sans-serif;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.623);
+}
+.image {
+  width: 120px;
+  margin-bottom: 0%;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 18%;
+}
+.data {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  width: 250px;
+}
+.inputdata {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  text-align: center;
+  width: 240px;
+  height: 30px;
+  border: #efefef;
+}
+.details {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  width: 270px;
+  border: #efefef;
+}
+.age {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 14px;
+  width: 43px;
+  border: #efefef;
+}
+.sex {
+  font-size: 14px;
+  width: 57px;
+  border: #efefef;
+}
+.impressions {
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 474px;
+  height: 80px;
+  border: #efefef;
+}
+td {
+  font-size: 14px;
+  text-align: top;
+}
+hr {
+  margin-top: 2%;
+}
+.datephn {
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 130px;
+  border: #efefef;
+}
+.col {
+  width: 150px;
+}
+.col1 {
+  width: 120px;
+}
+.col2 {
+  width: 65px;
+}
+.col3 {
+  width: 30px;
+}
+
+.disclaimer {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  line-height: normal;
+  color: rgba(0, 0, 0, 0.795);
+}
